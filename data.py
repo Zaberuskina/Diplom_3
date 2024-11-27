@@ -1,0 +1,9 @@
+DRIVER_NAME = None
+EMAIL = '0087687@ya.ru'
+PASSWORD = '1203@ya.ru'
+URL_LOGIN = 'https://stellarburgers.nomoreparties.site/login'
+URL_PROFILE = 'https://stellarburgers.nomoreparties.site/account/profile'
+URL_ORDER_HISTORY = 'https://stellarburgers.nomoreparties.site/account/order-history'
+URL_ORDER_HISTORY = 'https://stellarburgers.nomoreparties.site/account/order-history'
+URL_CONSTRUCTOR = 'https://stellarburgers.nomoreparties.site/'
+URL_ORDER_FEED = 'https://stellarburgers.nomoreparties.site/feed'
